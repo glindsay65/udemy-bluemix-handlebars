@@ -1,0 +1,26 @@
+{
+  "name": "udemy-bluemix-handlebars",
+  "version": "0.1.0",
+  "description": "Project for learning to build apps on Bluemix",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "Udemy",
+    "Bluemix",
+    "Node.js",
+    "Handlebars"
+  ],
+  "author": "Grant Lindsay <grant@fastdogcoding.com> (http://www.fastdogcoding.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cfenv": "^1.0.4",
+    "express": "^4.15.4",
+    "font-awesome": "^4.7.0",
+    "hbs": "^4.0.1"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "type": "resume",
+  "name": "Grant R. Lindsay",
+  "email": "Grant Lindsay <grant@fastdogcoding.com>",
+  "position": "Senior Application Developer",
+  "content": [
+    {
+      "type": "section",
+      "heading": "Highlights",
+      "title": "Me&mdash;at a glance",
+      "content": [
+        {
+          "type": "text",
+          "html": "<p class=\"card-text mt-3\">I am an Application Developer with more than 20 years of experience. I have worked with many technologies for various companies and clients. I believe in life-long learning and that sharing knowledge, rather than hoarding it, produces better results.</p>"
+        },
+        {
+          "type": "cardFooter",
+          "class": "card-footer d-flex flex-wrap justify-content-between flex-row",
+          "content": [
+            {
+              "type": "text",
+              "html": "<span><i class=\"fa fa-envelope\" aria-hidden=\"true\"></i>&nbsp;<a href=\"mailto:grant@fastdogcoding.com?Subject=Re%3A%20Your%20Resume\" title=\"Questions? Send me an email\">grant@fastdogcoding.com</a> </span>\n<span><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>&nbsp;<a href=\"https://twitter.com/FastDogCoding\" title=\"Link to my twitter profile\">@FastDogCoding</a> </span>\n<span><i class=\"fa fa-mobile-phone\" aria-hidden=\"true\"></i>&nbsp;412-555-1313</span>\n<span><i class=\"fa fa-phone\" aria-hidden=\"true\"></i>&nbsp;412-555-0101</span>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Skills",
+      "title": "What I know how to do",
+      "content": [
+        {
+          "type": "skillCategory",
+          "title": "Coding",
+          "content": [
+            {
+              "type": "skillLevel",
+              "title": "Expert",
+              "skills": [
+                "JavaScript",
+                "Java"
+              ]
+            },
+            {
+              "type": "skillLevel",
+              "title": "Intermediate",
+              "skills": [
+                "C/C++/C#",
+                "PHP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "skillCategory",
+          "title": "Platforms",
+          "content": [
+            {
+              "type": "skillLevel",
+              "title": "Expert",
+              "skills": [
+                "Node.js",
+                "IBM Bluemix"
+              ]
+            },
+            {
+              "type": "skillLevel",
+              "title": "Intermediate",
+              "skills": [
+                ".NET",
+                "AWS"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Traits",
+      "title": "What I am like.",
+      "content": [
+        {
+          "type": "tagCloud",
+          "tagItems": [
+            {
+              "weight": 3,
+              "text": "honest"
+            },
+            {
+              "weight": 4,
+              "text": "reliable"
+            },
+            {
+              "weight": 5,
+              "text": "industrious"
+            },
+            {
+              "weight": 4,
+              "text": "insightful"
+            },
+            {
+              "weight": 3,
+              "text": "patient"
+            },
+            {
+              "weight": 5,
+              "text": "experienced"
+            },
+            {
+              "weight": 3,
+              "text": "meticulous"
+            },
+            {
+              "weight": 3,
+              "text": "professional"
+            },
+            {
+              "weight": 5,
+              "text": "humorous"
+            },
+            {
+              "weight": 6,
+              "text": "inquisitive"
+            },
+            {
+              "weight": 4,
+              "text": "logical"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Employers",
+      "title": "Where I have worked.",
+      "content": [
+        {
+          "type": "cardDeck",
+          "content": [
+            {
+              "type": "employer",
+              "name": "Fast Dog Coding, LLC",
+              "location": "Pittsburgh, Pennsylvania, USA",
+              "dates": {
+                "start": "2014",
+                "end": "present"
+              },
+              "title": "Owner",
+              "accomplishments": "Customer-focused, rapid, and precise application development. Consistently delivered high value to customers, offering significant, collaborative contributions to clients' development teams. Regularly called upon to devise key and innovative components for new and existing applications."
+            },
+            {
+              "type": "employer",
+              "name": "Some Company",
+              "location": "Some City, Somewhere",
+              "dates": {
+                "start": "2007",
+                "end": "2014"
+              },
+              "title": "Senior Application Developer",
+              "accomplishments": "Recognized and rewarded for excellent technical skills and \"get it done\" work ethic. Performed application maintenance, enhancements, technical support and system administration for key systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Projects",
+      "title": "What I have done.",
+      "content": [
+        {
+          "type": "cardDeck",
+          "content": [
+            {
+              "type": "project",
+              "name": "Resume Application",
+              "description": "A modern upgrade to the traditional resume acted as a sample of work. It not only <strong>told</strong> the reader about the candidate, but <strong>showed</strong> what they could do as well.",
+              "roles": "Creator",
+              "technologies": [
+                "Node.js 6",
+                "Express 4",
+                "Handlebars 4",
+                "Bootstrap 4",
+                "IBM Bluemix",
+                "IBM Cloudant",
+                "JavaScript",
+                "HTML",
+                "CSS"
+              ],
+              "benefits": "Always Current: The most recent version of the resume was always available from the same link.<br />Show and Tell: More than simply listing the candidate's skills and history, the resume served as a <em>demonstration application</em>, showcasing their web application development abilities."
+            },
+            {
+              "type": "project",
+              "name": "Pretty Cool Project",
+              "description": "Pretty Cool Project brought some pretty cool features to a dated website.",
+              "roles": "Lead Developer",
+              "technologies": [
+                "Node.js 6",
+                "Express 4",
+                "IBM Bluemix",
+                "IBM Cloudant",
+                "JavaScript",
+                "HTML",
+                "CSS"
+              ],
+              "benefits": "Reduced costs: An aging website was reinvigorated with modern functionality, which saved the company the costs of replacing the entire site.<br />Increased Revenue: Customers enjoyed an improved purchasing experience, which increased revenue in the first six months by 12%."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
